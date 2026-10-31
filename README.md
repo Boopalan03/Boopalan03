@@ -61,7 +61,19 @@ Hi, I'm **Boopalan** 👨‍💻 — a final-year IT student and aspiring **Full
 ## 🚀 Featured Projects
 
 ### 🌾 FarmTracker
-Farm tracking application.
+**Full Stack MERN Application**
+
+Farm management platform for tracking crops, fields, expenses and harvest records in one place.
+
+- 🔐 RESTful APIs with JWT authentication, role-based authorization and CRUD operations
+- 🌱 Crop and field tracking workflow — farmers add crops, record activities and monitor progress from their dashboard
+- 📊 Expense and yield records with a summary dashboard
+- 📱 Responsive React + Bootstrap UI
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 [📂 GitHub Repository](https://github.com/Boopalan03/farmTracker)
 
