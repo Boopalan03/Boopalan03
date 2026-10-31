@@ -124,10 +124,12 @@ Scholarship management platform for student registration, scholarship applicatio
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Boopalan03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopalan03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
 <img src="https://streak-stats.demolab.com?user=Boopalan03&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/Boopalan03?style=for-the-badge&logo=github&color=0D1117&labelColor=1f2937" />
+<img src="https://komarev.com/ghpvc/?username=Boopalan03&label=Profile%20Views&style=for-the-badge&color=0A66C2" />
 
 </div>
 
