@@ -77,6 +77,8 @@ Farm management platform for tracking crops, fields, expenses and harvest record
 
 [📂 GitHub Repository](https://github.com/Boopalan03/farm-tracker)
 
+[🌐 Live Demo](https://farm-tracker-ten.vercel.app/)
+
 ---
 
 ### 💼 Smart Recruit System
