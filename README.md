@@ -75,7 +75,7 @@ Farm management platform for tracking crops, fields, expenses and harvest record
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-[📂 GitHub Repository](https://github.com/Boopalan03/farmTracker)
+[📂 GitHub Repository](https://github.com/Boopalan03/farm-tracker)
 
 ---
 
